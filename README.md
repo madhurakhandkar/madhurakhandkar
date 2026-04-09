@@ -3,8 +3,9 @@
 I’m a **junior** majoring in **Computer Science** at Penn State who loves building software for real-world applications. Currently, I'm a **Software Engineer Intern** at Penn State. I have experience in full-stack and backend development through internships, research, and academic projects.
 
 ## What I'm working on :) 
-- A Ruby on Rails API supporting **50,000+ university records**
-- 🧠 Research involving a **Raspberry Pi–controlled biomimetic model** for instructional use
+- DigiLib - AI Research Tool
+- Ruby on Rails API supporting **50,000+ university records**
+- Research involving a **Raspberry Pi–controlled biomimetic model** for instructional use
 
 ## What I have worked on 
 - **Over-the-Air Update Simulation & Validation System** Built a Python-based system to simulate infotainment Over-the-Air updates.
